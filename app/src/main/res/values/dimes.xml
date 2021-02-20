@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="padding_level1">4dp</dimen>
+    <dimen name="padding_level2">8dp</dimen>
+    <dimen name="margin_level1">4dp</dimen>
+    <dimen name="margin_level2">8dp</dimen>
+    <dimen name="margin_level3">16dp</dimen>
+    <dimen name="margin_level4">32dp</dimen>
+    <dimen name="textSmall">14sp</dimen>
+    <dimen name="textBig">22sp</dimen>
+    <dimen name="textBig1">26sp</dimen>
+</resources>
